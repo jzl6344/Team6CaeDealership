@@ -1,3 +1,10 @@
+/*
+Project: CarDealership Project
+Course: IST 242
+Author: Team 6
+Date Developed: 6/21/2020
+Revision: 1
+*/
 package edu.psu.abington.jzl6344.ist242;
 
 public class User {
